@@ -28,5 +28,5 @@
 
 # Changes  in css file
 
-1.change in css code use nav in place of div in some area
+1. change in css code use nav in place of div in some area
 1. changes in image scr file
