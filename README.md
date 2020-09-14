@@ -1,6 +1,6 @@
 # 01_seo_refactor
 
-# comman git commands   
+# comman git commands used
 
 
 1. git clone
