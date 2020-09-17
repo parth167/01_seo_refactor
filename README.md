@@ -34,3 +34,4 @@
 
 1. change in css code use nav in place of div in some area
 1. changes in image scr file work proper 
+1. there are many repeat css on style .css so modifie changes there
